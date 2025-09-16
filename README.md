@@ -4,3 +4,7 @@
 Para ejecutar el sistema debes poner:
 
 ```app install react```
+
+Para actualizar el repo
+
+```git pull```
